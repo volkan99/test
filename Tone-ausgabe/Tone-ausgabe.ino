@@ -1,3 +1,18 @@
+/** @author<Gürkan>
+ *  @author<Volkan>
+ *  
+ *  @mainpage<Titel>
+ *  
+ *  @section sec1 <Python> 
+ *  Hier Beispiel
+ *  
+ *  @section sec2 <Arduino>
+ *  @subsection sec2_1 PIR_Sensor
+ *  @subsection sec2_1 W-Lan
+ * 
+ */
+
+
 void setup() {
   
 
